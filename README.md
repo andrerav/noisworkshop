@@ -17,5 +17,5 @@ Troubleshooting.
  2.3 Velg lagring
  2.4 Tøm data
  2.5 Har du iOs må du trolig gjøre noe lignende, men har ikke svar på hva.
-3. Henger byggingen av js-filen? CTRL-C i kommandovinduet og kjør npm start pånytt.
+3. Henger byggingen av js-filen? CTRL-C i kommandovinduet og kjør npm start på nytt.
 4. Ikke vær redd for å spørre ut, vi er alle her for å lære av hverandre!
